@@ -144,9 +144,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "no_connect_connected|558800|1346200|c2af7a43-1076-4ac2-b78b-d3b7e8a529ea|00000000-0000-0000-0000-000000000000"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },

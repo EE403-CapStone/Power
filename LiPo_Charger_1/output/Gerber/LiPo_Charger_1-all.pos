@@ -1,0 +1,29 @@
+### Module positions - created on Sun Oct  2 22:32:34 2022 ###
+### Printed by Pcbnew version (6.0.7)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                Package                                               PosX       PosY       Rot  Side
+C1        0.1u               0603_R                                            161.6600   -62.2000    0.0000  top
+C2        10u                0603_R                                            152.2000   -79.8300  -90.0000  top
+C3        22uF               C_1206_3216Metric                                 169.0000   -73.4000    0.0000  top
+C4        22uF               C_1206_3216Metric                                 175.8000   -72.3000   90.0000  top
+D1        SS34_mdd           SS34_mdd                                          172.9000   -61.0000  180.0000  top
+D2        LED_R              0603_LED_S1                                       162.9000   -75.1316  -90.0000  top
+D3        LED_G              0603_LED_S1                                       165.3000   -75.1316  -90.0000  top
+IC1       FS312F-G           SOT-23-6                                          162.1000   -57.2000  180.0000  top
+J1        USB_B_Micro        USB_Micro-B_Amphenol_10103594-0001LF_Horizontal   147.5850   -77.0650  -90.0000  top
+J2        Conn_01x02_Female  PinHeader_1x02_P1.00mm_Vertical                   173.8000   -56.6000  -90.0000  top
+J3        USB_B_Micro        USB_Micro-B_Amphenol_10103594-0001LF_Horizontal   170.8000   -79.1000    0.0000  top
+L1        22uH               75_75_4                                           168.0050   -71.7500   90.0000  top
+Q1        FS8205             SOT-23-6                                          166.8000   -57.5500   90.0000  top
+R1        2k                 0603_R                                            166.7100   -62.2000  180.0000  top
+R2        100                0603_R                                            158.3000   -57.1600  -90.0000  top
+R3        2k                 0603_R                                            152.2000   -76.0450   90.0000  top
+R4        7.5k               0603_R                                            172.9000   -72.9700   90.0000  top
+R5        1k                 0603_R                                            175.6000   -66.0000   90.0000  top
+R6        1k                 0603_R                                            155.4300   -80.5750    0.0000  top
+R7        1k                 0603_R                                            159.7700   -80.5750    0.0000  top
+SW1       SW_DIP_x01         SW_500SSP3S1M6QEA                                 150.3575   -63.8000   90.0000  top
+U1        TP4056_[C16581]    SOP-8_EP_150MIL                                   157.4000   -75.8300  -90.0000  top
+U2        MT3608             SOT-23-6                                          171.3564   -66.4200  -90.0000  top
+## End
