@@ -11,3 +11,7 @@ This folder includes information involved with the power system design for the c
 1. Verifying the footprint of all components 
 2. Finish the routing of the PCB
 3. BOM file: EE403W/LiPo_Charger_1/bom/ibom.html
+
+## 10.03.22 Update
+1. Updated Gerber files
+2. The PCB board has been in production.
