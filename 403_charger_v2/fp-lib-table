@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "403_charger")(type "KiCad")(uri "D:/Software/KiCAD6.0/project_pretty_lib/403_charger/403_charger_v2.pretty")(options "")(descr ""))
+  (lib (name "403_charger_new")(type "KiCad")(uri "D:/Software/KiCad/project_lib/403_charger/403_charger_new.pretty")(options "")(descr ""))
+)

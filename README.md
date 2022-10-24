@@ -14,4 +14,9 @@ This folder includes information involved with the power system design for the c
 
 ## 10.03.22 Update
 1. Updated Gerber files
-2. The PCB board has been in production.
+2. The PCB board has been in production
+
+## 10.24.22 Update
+1. Errors on footprints had been corrected
+2. Increased the spacing and track width
+3. Add mounting holes
