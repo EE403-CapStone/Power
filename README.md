@@ -1,5 +1,10 @@
 # Power Design Documents
-[toc]
+- [Power Design Documents](#power-design-documents)
+  - [General](#general)
+  - [Description](#description)
+  - [Schematic](#schematic)
+  - [PCB](#pcb)
+  - [Bill of Material](#bill-of-material)
 
 ----
 ## General
